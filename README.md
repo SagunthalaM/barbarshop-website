@@ -1,1 +1,5 @@
-# easy
+![image](https://user-images.githubusercontent.com/112681188/206362147-65ab23a1-4e6a-4e8b-b056-744fb5b23b71.png)
+![image](https://user-images.githubusercontent.com/112681188/206362333-2b904e55-fe48-4b37-b4a1-06ee3821ed7e.png)
+![image](https://user-images.githubusercontent.com/112681188/206362448-a42087f1-622d-41ff-bee7-b7e0d4a36cf6.png)
+![image](https://user-images.githubusercontent.com/112681188/206362564-a37c1487-7951-4887-81e7-c545ed7106e2.png)
+![image](https://user-images.githubusercontent.com/112681188/206362640-90a33984-ebc2-41e8-b71d-cd6673bba3ac.png)
